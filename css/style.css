@@ -158,14 +158,19 @@ h1{
   h1::after{
     right: 0;
   }
-}
 
+  body #Typeface_and_Seal{
+    max-width: 40vw;
+    min-width: 350px;
+  }
+}
 
 
 #Typeface_and_Seal{
-  max-width: 40vw;
-  min-width: 350px;
+  max-width: 80vw;
+  min-width: 80vw;
 }
+
 
 .bottom-logo{
   text-align: center;
